@@ -93,7 +93,7 @@
   background-color: #7b16ff }
 .button.button-slack:hover,
 .button.button-slack:hover:before {
-  content: 'En esta comunidad, vas a poder conectarte para charlar con otros Pelades sobre temas de tecnologías como las que hablo en el canal, y consultar dudas y ayudar a los demás!';
+  content: 'Aquí podes Ver Mi CV!';
   white-space: initial; }
 
 /* Kit */
@@ -147,7 +147,7 @@
   background-color: #E8F3EC }
 .button.button-mail:hover,
 .button.button-mail:hover:before {
-    content: 'Haciendo click aquí, puedes enviarme un mail, puedo tardar en responder!';
+    content: 'Cliqueando Aquí, puedes enviarme un mail, puedo demorar en responder!';
     white-space: initial; }
 
 /* Ko-Fi */
